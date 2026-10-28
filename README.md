@@ -4,6 +4,9 @@
 ## Project Overview
 QualityTrace is a manufacturing quality analysis project focused on identifying product defects in casting production and monitoring defect rates across machines, production lines, and shifts.
 
+## Business Problem
+Manufacturing defects increase production waste, rework costs, and operational expenses. The business needs to identify high-defect machines, production lines, shifts, and process parameters to understand quality issues and reduce the overall defect rate.
+
 ## Tools Used
 - PostgreSQL — Data analysis using SQL
 - Microsoft Excel — Data validation and inspection
